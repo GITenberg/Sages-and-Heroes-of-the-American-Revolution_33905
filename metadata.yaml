@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36807'
     url: http://www.gutenberg.org/2009/agents/36807
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33905#Sages-and-Heroes-of-the-American-Revolution
 gutenberg_issued: '2010-10-25'
 gutenberg_type: Text
 identifiers:
