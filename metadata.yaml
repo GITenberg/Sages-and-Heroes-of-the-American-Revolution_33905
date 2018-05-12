@@ -1,0 +1,26 @@
+_repo: Sages-and-Heroes-of-the-American-Revolution_33905
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Judson, L. Carroll (Levi Carroll)
+    alias: Judson, Levi Carroll
+    gutenberg_agent_id: '36807'
+    url: http://www.gutenberg.org/2009/agents/36807
+description: ''
+gutenberg_issued: '2010-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33905'
+  lccn: '48033539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Biography'
+title: The Sages and Heroes of the American Revolution
+url: http://www.gutenberg.org/ebooks/33905
